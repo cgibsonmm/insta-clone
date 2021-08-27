@@ -2,7 +2,7 @@
 
 ## Project Name
 
-The name of your project.
+# Insta-clone
 
 ## Project Description
 
